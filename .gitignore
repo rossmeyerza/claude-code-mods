@@ -1,0 +1,8 @@
+# Local Claude Code settings
+.claude/
+# Built zips: they go on GitHub releases
+dist/
+*.zip
+# Type files that Claude Code writes when it loads a mod
+.claude-plugin/types/
+node_modules/

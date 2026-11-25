@@ -1,0 +1,15 @@
+{
+  "name": "claude-code-mods",
+  "description": "Claude Code mods by Ross Meyer",
+  "owner": {
+    "name": "Ross Meyer"
+  },
+  "plugins": [
+    {
+      "name": "session-costs",
+      "source": "./costs",
+      "description": "Report saved Claude Code cost estimates with charts and tabs",
+      "version": "0.4.0"
+    }
+  ]
+}
