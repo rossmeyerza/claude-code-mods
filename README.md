@@ -16,10 +16,6 @@ Then start Claude Code and enter `/costs`. See [costs/README.md](costs/README.md
 
 You can also download the zip from the [releases](https://github.com/rossmeyerza/claude-code-mods/releases) page.
 
-## Mod gallery
-
-The `gallery` folder holds a sample mod. It opens a pane that shows text styles, Markdown, code, controls, a link and a drawing. Start Claude Code with `claude --plugin-dir ./gallery`, then enter `/mod-gallery`.
-
 ## Build a zip
 
 Run this command from the repository folder:

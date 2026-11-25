@@ -6,3 +6,5 @@ dist/
 # Type files that Claude Code writes when it loads a mod
 .claude-plugin/types/
 node_modules/
+# A local sample mod, not part of this repository
+gallery/
