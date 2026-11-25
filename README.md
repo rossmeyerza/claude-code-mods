@@ -16,6 +16,16 @@ Then start Claude Code and enter `/costs`. See [costs/README.md](costs/README.md
 
 You can also download the zip from the [releases](https://github.com/rossmeyerza/claude-code-mods/releases) page.
 
+## Footer
+
+The `footer` mod adds a coloured footer under the prompt with the folder, branch, model, context used, remaining limits and reset times.
+
+```sh
+claude plugin install footer --marketplace rossmeyerza/claude-code-mods
+```
+
+See [footer/README.md](footer/README.md) for the optional limits export.
+
 ## Build a zip
 
 Run this command from the repository folder:

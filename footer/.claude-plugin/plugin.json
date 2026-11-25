@@ -1,0 +1,11 @@
+{
+  "name": "footer",
+  "version": "0.1.0",
+  "description": "Shows a coloured footer with project details, context used, remaining limits and reset times. The layout adapts to the terminal width.",
+  "author": {
+    "name": "Ross Meyer"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/rossmeyerza/claude-code-mods",
+  "types": "./types/index.d.ts"
+}

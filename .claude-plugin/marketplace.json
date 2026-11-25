@@ -10,6 +10,12 @@
       "source": "./costs",
       "description": "Report saved Claude Code cost estimates with charts and tabs",
       "version": "0.4.0"
+    },
+    {
+      "name": "footer",
+      "source": "./footer",
+      "description": "Show project details, context used and remaining limits in a footer under the prompt",
+      "version": "0.1.0"
     }
   ]
 }
